@@ -41,7 +41,7 @@ Jika Telah mengisi seluruh kolom yang dibutuhkan selanjutnya klik ![Docusaurus P
 
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
@@ -51,7 +51,7 @@ Selanjutnya mengisi Costumer Detail, setelah mengisi seluruh kolom selanjutnya k
 
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
@@ -65,7 +65,7 @@ Terdapat _Vehicle Details, Costumer Details, Contact Person_ yang wajib di lengk
 ![Docusaurus Plushie](/img/MRA/13.png)
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
@@ -75,7 +75,7 @@ setelah mengisi seluruh kolom selanjutnya klik ![Docusaurus Plushie](/img/MRA/sa
 
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
@@ -91,7 +91,7 @@ Akan tampil seperti di gambar Selanjutnya isikan sesuai dengan data costumer
 
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
@@ -108,7 +108,7 @@ Setelah mengisi seluruh kolom selanjutnya klik ![Docusaurus Plushie](/img/MRA/sa
 ![Docusaurus Plushie](/img/MRA/20.png)
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
@@ -140,7 +140,7 @@ Selanjutnya akan muncul tampilan yang berisi:
 
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 ![Docusaurus Plushie](/img/MRA/23.png)
