@@ -29,7 +29,7 @@ Work Order Status telah berubah menjadi Reception dari yang sebelumnya Waiting R
 
 :::tip Note
 
-Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/Star.png).
+Wajib mengisi field yang memiliki tanda ![Docusaurus Plushie](/img/MRA/star.png).
 
 :::
 
