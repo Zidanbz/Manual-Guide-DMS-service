@@ -1,0 +1,55 @@
+GENERAL REPAIR :
+- create Work Order
+- Estimation
+- Diagnostic
+- Purchase Part
+
+
+BODY PAINTING :
+- create Work Order
+- Estimation
+- Diagnostic
+- Purchase Part
+
+- create Work Order
+GR, BP,
+
+- Estimation
+GR, BP,
+
+- Diagnostic
+GR, BP,
+
+- Purchase Part
+GR, BP,
+
+- WAC
+GR, BP,
+
+- Job Order
+GR, BP,
+
+- Part Order
+GR, BP,
+
+- Print Work Order
+GR, BP,
+
+
+<Tabs>
+  <TabItem value="gr" label="General Repair" default>
+
+*Not Available*
+  
+  </TabItem>
+  <TabItem value="bp" label="Body Painting">
+
+*Not Available*
+  
+  </TabItem>
+</Tabs>
+
+
+<Image img={require('/img/mra-og/create-booking/1.png')} />
+
+![Docusaurus Plushie](/img/mra-og/create-booking/booking.png)
