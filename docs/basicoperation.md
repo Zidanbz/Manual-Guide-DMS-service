@@ -23,7 +23,7 @@ Aplikasi ini dapat di akses menggunakan browser (direkomendasikan menggunakan **
 
 Untuk akses aplikasi silahkan login menggunakan Email dan Pasword yang telah diberikan.
 
-![Docusaurus Plushie](img_basicoperation/login.png)
+![Docusaurus Plushie](/img/login_overview.png).
 
 ![Docusaurus Plushie](img_basicoperation/gagalogin.png)
 :::tip Note
@@ -34,18 +34,18 @@ Pop-up diatas akan muncul apabila user salah memasukkan email dan password atau 
 
 Setelah proses login selesai maka akan muncul tampilan seperti berikut.
 
-![Docusaurus Plushie](img_basicoperation/dashboard.png)
+![Docusaurus Plushie](/img/dashboard.png).
 
 Keterangan :
 1. **Navigation Menu** : menampilkan menu edit data akun dan juga logout.
 
-![Docusaurus Plushie](img_basicoperation/popupmenu.png)
+![Docusaurus Plushie](/img/logout.png).
 
-![Docusaurus Plushie](img_basicoperation/editprofile.png)
+![Docusaurus Plushie](/img/edit_profile.png).
 
 pada gambar diatas yang di beri kotak merah, merupakan field inputan yang bisa di update jika terdapat kesalahan atau perubahan data yang tidak sesuai.
 
-![Docusaurus Plushie](img_basicoperation/password.png)
+![Docusaurus Plushie](/img/reset_password.png).
 
 pada gambar diatas yang di beri kotak merah, digunakan untuk melakukan reset password atau pergantian password yang telah di berikan oleh administrator, lalu tinggal memasukkan password yang baru.
 
@@ -53,9 +53,9 @@ pada gambar diatas yang di beri kotak merah, digunakan untuk melakukan reset pas
 
 ![Docusaurus Plushie](img_basicoperation/navbar.png)
 
-3. **Dropdown Button** : Menampilkan menu ikon beserta teksnya.
+<!-- 3. **Dropdown Button** : Menampilkan menu ikon beserta teksnya.
 
-![Docusaurus Plushie](img_basicoperation/dropdown.png)
+![Docusaurus Plushie](img_basicoperation/dropdown.png) -->
 
 <!---4. **Dashboard Aftersales** : Menampilkan data dalam bentuk grafik dan chart. -->
 

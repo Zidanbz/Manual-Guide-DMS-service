@@ -28,4 +28,4 @@ Merupakan solusi perangkat lunak yang dikhususkan untuk menyederhanakan dan meni
 
 6. **Pemantauan Kinerja Bengkel**: Memberikan laporan dan analitik terkait kinerja bengkel, termasuk waktu perbaikan, produktivitas mekanik, dan pendapatan.
 
-<Image img={require('./img_basicoperation/front.png')} />
+![Docusaurus Plushie](/img/login_overview.png).
