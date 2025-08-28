@@ -9,7 +9,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo-KALLA.ico',
+  favicon: 'img/logo-kalla.svg',
   organizationName: 'CICT KALLA GROUP', // Usually your GitHub org/user name.
   projectName: 'dmsservices', // Usually your repo name.
 
@@ -58,7 +58,7 @@ const config = {
         title: '',
         logo: {
           alt: 'KALLA Project Logo',
-          src: 'img/logokg.png',
+          src: 'img/logo-kalla.svg',
         },
         items: [
           {

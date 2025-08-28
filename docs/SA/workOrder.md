@@ -145,3 +145,23 @@ WO Estimation adalah proses ketika costumer  ingin mengetahui jumlah pembayaran.
 Akan tampil data terkait lalu pilih Choose seperti pada gambar di bawah ini 
 
 ![Docusaurus Plushie](/img/SH/44.png)
+
+selanjutnya pilih Estimation seperti pada gambar di bawah ini
+
+![Docusaurus Plushie](/img/SH/54.png)
+
+akan muncul tampilan di bawah ini, silahkan memasukkan field yang dibutuhkan lalu klik **save Form**
+
+![Docusaurus Plushie](/img/SH/55.png)
+
+Selanjutnya mengisi field yang di tandai dengan kotak warna merah dan tambahkan field lain jika di butuhkan. klik generate Work Order untuk menghasilkan Work Order Number
+
+![Docusaurus Plushie](/img/SH/56.png)
+
+akan muncul Modal Dialog untuk melakukan konfirmasi bahwa data yang di inputkan apakah sudah sesuai
+
+![Docusaurus Plushie](/img/SH/57.png)
+
+jika berhasil maka akan menampilkan pop up Success
+
+![Docusaurus Plushie](/img/SH/58.png)
